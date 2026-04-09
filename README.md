@@ -95,13 +95,6 @@ Actively seeking opportunities to solve real-world problems using scalable AI so
 
 [![Rushikesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RUSHIPATIL2003)](https://github.com/RUSHIPATIL2003)
 
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RUSHIPATIL2003&theme=flat&no-frame=true&margin-w=10"/>
-</p>
 
 ---
 
