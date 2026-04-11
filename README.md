@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rushikesh Patil</h1>
+<h1 align="center">Hi 👋, I'm Rushikesh Patil </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI/ML+Engineer;Building+LLM+%26+RAG+Systems;NLP+%7C+Deep+Learning+%7C+GenAI;Turning+Data+into+Production+AI&center=true&width=520&height=45">
