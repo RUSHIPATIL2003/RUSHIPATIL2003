@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<b>AI/ML Engineer • NLP • Generative AI • Data Science</b> 
+<b>AI/ML Engineer • NLP • Generative AI • Data Science</b>
 </p>
 
 ---
