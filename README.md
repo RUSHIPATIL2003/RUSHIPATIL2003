@@ -74,26 +74,6 @@ Specializing in:
 
 ---
 
-## 🚀 Featured Projects
-
-### 🧠 RAG Chatbot System
-Production-grade retrieval augmented system  
-🔗 https://github.com/RUSHIPATIL2003/RAG-Chatbot-System  
-
----
-
-### 🔥 Sentiment Analysis (LSTM)
-Deep learning NLP classifier  
-🔗 https://github.com/RUSHIPATIL2003/sentiment-lstm-pytorch  
-
----
-
-### 🎨 GAN Image Generator
-Generative AI for MNIST digits  
-🔗 https://github.com/RUSHIPATIL2003/mnist-gan-pytorch  
-
----
-
 ## 📊 GitHub Analytics Dashboard
 
 <p align="center">
