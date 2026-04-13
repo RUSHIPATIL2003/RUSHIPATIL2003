@@ -54,23 +54,6 @@ Specializing in:
 
 ---
 
-## 📊 Impact Metrics
-
-<p align="center">
-
-| Metric | Value |
-|--------|------|
-| 🤖 AI Models Built | 10+ |
-| 🚀 Projects Deployed | 6+ |
-| 🧠 LLM / RAG Systems | 3+ |
-| ⚙️ ML Pipelines | 5+ |
-| 📦 APIs Built | 8+ |
-| 🧪 Research Implementations | 20+ |
-
-</p>
-
----
-
 ## ⚒️ Tech Stack
 
 ### 🐍 Languages
