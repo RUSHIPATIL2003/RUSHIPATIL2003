@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://flowcv.com/resume/4ke7376be1da" target="_blank">
-    <img src="https://drive.google.com/file/d/1gthDL1OJtzJ7PB5nqujcfd0H8MdDd_ZC/view?usp=drivesdk"/>
+    <img src="https://img.shields.io/badge/📄%20Download%20Resume-Click%20Here-blue?style=for-the-badge&logo=readthedocs&logoColor=white"/>
   </a>
 </p>
 
