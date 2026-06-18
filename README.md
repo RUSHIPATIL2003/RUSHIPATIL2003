@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=80"/>
 </p>
-
+ 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer+%7C+LLM+Systems+Builder;RAG+%7C+NLP+%7C+Deep+Learning;Production+AI+%7C+MLOps+%7C+Scalable+Systems&center=true&width=700&height=45">
 </p>
