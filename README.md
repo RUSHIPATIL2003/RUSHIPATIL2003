@@ -134,7 +134,7 @@ Specializing in:
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rushii-patil-796372237">
+  <a href="https://www.linkedin.com/in/rushi03/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"/>
   </a>
 
