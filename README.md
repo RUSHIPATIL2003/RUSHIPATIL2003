@@ -75,37 +75,63 @@ Specializing in:
 ## 📊 GitHub Analytics Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RUSHIPATIL2003&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RUSHIPATIL2003&theme=tokyonight&hide_border=true" height="170"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=RUSHIPATIL2003&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    height="170"
+    alt="GitHub Stats"
+  />
+
+  <img
+    src="https://streak-stats.demolab.com/?user=RUSHIPATIL2003&theme=tokyonight&hide_border=true"
+    height="170"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUSHIPATIL2003&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUSHIPATIL2003&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    height="160"
+    alt="Top Languages"
+  />
 </p>
+
 
 ---
 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RUSHIPATIL2003&theme=react-dark&hide_border=true&area=true"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=RUSHIPATIL2003&theme=react-dark&hide_border=true&area=true"
+    alt="Contribution Activity Graph"
+  />
 </p>
+
 
 ---
 
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RUSHIPATIL2003&theme=algolia&no-frame=true&row=2&column=4"/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=RUSHIPATIL2003&theme=algolia&no-frame=true&row=2&column=4"
+    alt="GitHub Trophies"
+  />
 </p>
+
 
 ---
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/RUSHIPATIL2003/RUSHIPATIL2003/blob/output/github-snake-dark.svg"/>
+  <img
+    src="https://github.com/RUSHIPATIL2003/RUSHIPATIL2003/blob/output/github-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+  />
 </p>
+
 
 ---
 
