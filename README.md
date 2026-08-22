@@ -107,10 +107,9 @@ Specializing in:
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=RUSHIPATIL2003&theme=algolia&no-frame=true&row=2&column=4"
-    alt="GitHub Trophies"
-  />
+  <a href="https://github.com/RUSHIPATIL2003">
+    <img src="https://github-profile-trophy.vercel.app/?username=RUSHIPATIL2003&theme=algolia&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+  </a>
 </p>
 
 
