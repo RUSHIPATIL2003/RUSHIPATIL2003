@@ -75,25 +75,18 @@ Specializing in:
 ## 📊 GitHub Analytics Dashboard
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=RUSHIPATIL2003&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    height="170"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://streak-stats.demolab.com/?user=RUSHIPATIL2003&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="GitHub Streak"
-  />
+  <a href="https://github.com/RUSHIPATIL2003">
+    <img src="https://github-readme-stats.vercel.app/api?username=RUSHIPATIL2003&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/RUSHIPATIL2003">
+    <img src="https://streak-stats.demolab.com/?user=RUSHIPATIL2003&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
+  </a>
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUSHIPATIL2003&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    height="160"
-    alt="Top Languages"
-  />
+  <a href="https://github.com/RUSHIPATIL2003">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUSHIPATIL2003&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="160" alt="Top Languages" />
+  </a>
 </p>
 
 
@@ -127,7 +120,7 @@ Specializing in:
 
 <p align="center">
   <img
-    src="https://github.com/RUSHIPATIL2003/RUSHIPATIL2003/blob/output/github-snake-dark.svg"
+    src="https://raw.githubusercontent.com/RUSHIPATIL2003/RUSHIPATIL2003/gh-pages/github-snake-dark.svg"
     alt="GitHub Contribution Snake"
   />
 </p>
