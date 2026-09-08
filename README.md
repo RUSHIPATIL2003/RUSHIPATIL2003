@@ -35,9 +35,10 @@ Specializing in:
 
 <p align="center">
   <a href="https://github.com/RUSHIPATIL2003" target="_blank">
-    <img src="https://githubusercontent.com" alt="GitHub" width="40" height="40"/>
+    <img src="https://jsdelivr.net" alt="GitHub" width="35" height="35" style="fill: #181717;"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/rushi03/" target="_blank">
-    <img src="https://githubusercontent.com" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://jsdelivr.net" alt="LinkedIn" width="35" height="35" style="fill: #0077B5;"/>
   </a>
 </p>
