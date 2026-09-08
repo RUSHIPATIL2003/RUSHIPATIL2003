@@ -17,29 +17,7 @@
 
 ---
 
-## 📄 Resume
-
-<p align="center">
-  <a href="https://drive.google.com/file/d/1gthDL1OJtzJ7PB5nqujcfd0H8MdDd_ZC/view">
-    <img src="https://img.shields.io/badge/📄%20Download%20Resume-Click%20Here-blue?style=for-the-badge&logo=readthedocs&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## ⚡ AI Engineering Identity
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LLMs-Production%20Systems-black?style=for-the-badge&logo=openai"/>
-  <img src="https://img.shields.io/badge/RAG-Vector%20Search-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NLP-Transformers-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-PyTorch-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MLOps-Deployment-green?style=for-the-badge"/>
-</p>
-
----
-
-## 🚀 Professional Summary
+## Hii there
 
 I am an **AI Engineer focused on building production-grade intelligent systems**.
 
