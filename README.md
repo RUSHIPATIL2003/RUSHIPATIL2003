@@ -34,15 +34,10 @@ Specializing in:
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rushi03/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"/>
+  <a href="https://github.com/RUSHIPATIL2003" target="_blank">
+    <img src="https://githubusercontent.com" alt="GitHub" width="40" height="40"/>
   </a>
-
-  <a href="https://rushikeshpatil2003.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
-  </a>
-
-  <a href="https://github.com/RUSHIPATIL2003">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge"/>
+  <a href="https://www.linkedin.com/in/rushi03/" target="_blank">
+    <img src="https://githubusercontent.com" alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>
