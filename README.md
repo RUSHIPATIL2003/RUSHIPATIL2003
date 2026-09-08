@@ -1,22 +1,3 @@
-<!-- ===================== HERO 3D HEADER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=180&section=header&text=Rushikesh%20Patil&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=80"/>
-</p>
- 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer+%7C+LLM+Systems+Builder;RAG+%7C+NLP+%7C+Deep+Learning;Production+AI+%7C+MLOps+%7C+Scalable+Systems&center=true&width=700&height=45">
-</p>
-
-<p align="center">
-<b>AI/ML Engineer • LLM Systems • NLP • Generative AI • MLOps</b>
-</p>
-
----
-
 ## Hii there
 
 I am an **AI Engineer focused on building production-grade intelligent systems**.
