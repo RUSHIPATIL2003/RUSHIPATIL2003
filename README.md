@@ -11,28 +11,6 @@ Specializing in:
 
 ---
 
-## ⚒️ Tech Stack
-
-### 🐍 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
-<!-- ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge)-->
-<!-- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge) -->
-
-### 🤖 AI / ML
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge)
-![Transformers](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge)
-
-### 🧬 Infra / Data
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge)
-![VectorDB](https://img.shields.io/badge/VectorDB-0B3D91?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
-
----
-
-## 📚 AI Research & Exploration
-
 ### 🧠 Core Areas
 - Transformers & Attention Mechanisms
 - RAG Systems & Vector Search
@@ -53,7 +31,7 @@ Specializing in:
 
 ---
 
-## 🌐 Connect With Me
+### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rushi03/">
