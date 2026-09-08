@@ -17,29 +17,7 @@
 
 ---
 
-## 📄 Resume
-
-<p align="center">
-  <a href="https://drive.google.com/file/d/1gthDL1OJtzJ7PB5nqujcfd0H8MdDd_ZC/view">
-    <img src="https://img.shields.io/badge/📄%20Download%20Resume-Click%20Here-blue?style=for-the-badge&logo=readthedocs&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## ⚡ AI Engineering Identity
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LLMs-Production%20Systems-black?style=for-the-badge&logo=openai"/>
-  <img src="https://img.shields.io/badge/RAG-Vector%20Search-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NLP-Transformers-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-PyTorch-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MLOps-Deployment-green?style=for-the-badge"/>
-</p>
-
----
-
-## 🚀 Professional Summary
+## Hii there
 
 I am an **AI Engineer focused on building production-grade intelligent systems**.
 
@@ -69,61 +47,6 @@ Specializing in:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge)
 ![VectorDB](https://img.shields.io/badge/VectorDB-0B3D91?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
-
----
-
-## 📊 GitHub Analytics Dashboard
-
-<p align="center">
-  <a href="https://github.com/RUSHIPATIL2003">
-    <img src="https://github-readme-stats.vercel.app/api?username=RUSHIPATIL2003&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/RUSHIPATIL2003">
-    <img src="https://streak-stats.demolab.com/?user=RUSHIPATIL2003&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/RUSHIPATIL2003">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUSHIPATIL2003&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="160" alt="Top Languages" />
-  </a>
-</p>
-
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=RUSHIPATIL2003&theme=react-dark&hide_border=true&area=true"
-    alt="Contribution Activity Graph"
-  />
-</p>
-
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <a href="https://github.com/RUSHIPATIL2003">
-    <img src="https://github-profile-trophy.vercel.app/?username=RUSHIPATIL2003&theme=algolia&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
-  </a>
-</p>
-
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/RUSHIPATIL2003/RUSHIPATIL2003/gh-pages/github-snake-dark.svg"
-    alt="GitHub Contribution Snake"
-  />
-</p>
-
 
 ---
 
@@ -163,22 +86,4 @@ Specializing in:
   <a href="https://github.com/RUSHIPATIL2003">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge"/>
   </a>
-</p>
-
----
-
-## 📌 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RUSHIPATIL2003&style=for-the-badge&color=blue"/>
-</p>
-
----
-
-<p align="center">
-  <b>🚀 Building AI systems that scale from research → production → real-world impact</b>
-</p>
-
-<p align="center">
-  <i>LLMs • RAG • Deep Learning • MLOps • Scalable AI Systems</i>
 </p>
