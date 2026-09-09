@@ -6,9 +6,4 @@ I am **Rushikesh Patil**, an AI Engineer who enjoys turning ideas into intellige
 
 ### 🌐 Connect With Me
 
-<p align="center">
-    &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/rushi03/" target="_blank">
-    <img src="https://jsdelivr.net" alt="LinkedIn" width="35" height="35" style="fill: #0077B5;"/>
-  </a>
-</p>
+<h3 align="center">🤝 Let's Connect</h3> <p align="center"> <a href="https://www.linkedin.com/in/rushi03/" target="_blank"> <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn"> </a> <a href="https://github.com/rushipatil2003" target="_blank"> <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub"> </a> <a href="https://x.com/rushiipatil25" target="_blank"> <img src="https://img.icons8.com/doodle/40/000000/twitter-squared--v2.png" alt="Twitter"> </a> </p>
