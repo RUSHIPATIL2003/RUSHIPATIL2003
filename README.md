@@ -1,33 +1,6 @@
 ## Hii there👋🏼
 
-I am **Rushikesh Patil**, an **AI Engineer focused on building production-grade intelligent systems**.
-
-Specializing in:
-- 🧠 Large Language Models (LLMs)
-- 🔍 Retrieval-Augmented Generation (RAG)
-- ⚙️ End-to-end ML pipelines
-- 🚀 Scalable AI deployments
-- 📦 Research → Production AI systems
-
----
-
-### 🧠 Core Areas
-- Transformers & Attention Mechanisms
-- RAG Systems & Vector Search
-- LLM Fine-tuning (LoRA / QLoRA)
-- Embedding models & semantic search
-- Generative AI systems
-
-### 🧪 Implemented Work
-- Transformer from scratch (PyTorch)
-- LSTM sentiment classifier
-- GAN-based image generation
-- RAG chatbot system
-
-### 🚧 Currently Exploring
-- AI Agents (ReAct / Tool Use)
-- Multimodal AI (Vision + Language)
-- LLM optimization & inference speedups
+I am **Rushikesh Patil**, an AI Engineer who enjoys turning ideas into intelligent systems that actually work in the real world. Coding has always been more than just a skill for me—it’s how I explore ideas, solve problems, and build things I’m genuinely curious about. I spend a lot of my time experimenting with AI, working on production-grade systems, and figuring out how to turn complex problems into simple, useful solutions. And yes, some of my best ideas tend to show up late at night, somewhere between a bug, a cup of coffee, and one more line of code.
 
 ---
 
