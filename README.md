@@ -1,6 +1,6 @@
 ## Hii there👋🏼
 
-I am an **AI Engineer focused on building production-grade intelligent systems**.
+I am **Rushikesh Patil**, an **AI Engineer focused on building production-grade intelligent systems**.
 
 Specializing in:
 - 🧠 Large Language Models (LLMs)
@@ -23,6 +23,11 @@ Specializing in:
 - LSTM sentiment classifier
 - GAN-based image generation
 - RAG chatbot system
+
+### 🚧 Currently Exploring
+- AI Agents (ReAct / Tool Use)
+- Multimodal AI (Vision + Language)
+- LLM optimization & inference speedups
 
 ---
 
