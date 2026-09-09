@@ -24,11 +24,6 @@ Specializing in:
 - GAN-based image generation
 - RAG chatbot system
 
-### 🚧 Currently Exploring
-- AI Agents (ReAct / Tool Use)
-- Multimodal AI (Vision + Language)
-- LLM optimization & inference speedups
-
 ---
 
 ### 🌐 Connect With Me
