@@ -6,37 +6,16 @@ I am <strong>Rushikesh Patil</strong>, an AI Engineer who enjoys turning ideas i
 
 <h3 align="center">🤝 Let's Connect with me</h3>
 
-<p align="center" class="social-icons">
+<p align="center">
   <a href="https://www.linkedin.com/in/rushi03/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png"
-         alt="LinkedIn"
-         width="35"
-         height="35">
+    <img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="LinkedIn" width="35" height="35">
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/rushipatil2003" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/3291/3291667.png"
-         alt="GitHub"
-         width="35"
-         height="35">
+    <img src="https://cdn-icons-png.flaticon.com/128/3291/3291667.png" alt="GitHub" width="35" height="35">
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/rushiipatil25" target="_blank">
-    <img src="https://freepngimg.com/thumb/x/95787-x-logo.png"
-         alt="X.com"
-         width="35"
-         height="35">
+    <img src="https://freepngimg.com/thumb/x/95787-x-logo.png" alt="X.com" width="35" height="35">
   </a>
 </p>
-
-<style>
-.social-icons img {
-  transition: transform 0.25s ease, opacity 0.25s ease;
-}
-
-.social-icons img:hover {
-  transform: translateY(-4px) scale(1.1);
-  opacity: 0.8;
-}
-</style>
-
