@@ -22,7 +22,7 @@ I am <strong>Rushikesh Patil</strong>, an AI Engineer who enjoys turning ideas i
   </a>
   &nbsp;&nbsp;
   <a href="https://x.com/rushiipatil25" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/14417/14417709.png"
+    <img src="https://freepngimg.com/thumb/x/95787-x-logo.png"
          alt="X.com"
          width="40"
          height="40">
