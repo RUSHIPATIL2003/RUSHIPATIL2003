@@ -6,7 +6,7 @@ I am <strong>Rushikesh Patil</strong>, an AI Engineer who enjoys turning ideas i
 
 <h3 align="center">🤝 Let's Connect with me</h3>
 
-<p align="center">
+<p align="center" class="social-icons">
   <a href="https://www.linkedin.com/in/rushi03/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png"
          alt="LinkedIn"
@@ -28,3 +28,15 @@ I am <strong>Rushikesh Patil</strong>, an AI Engineer who enjoys turning ideas i
          height="35">
   </a>
 </p>
+
+<style>
+.social-icons img {
+  transition: transform 0.25s ease, opacity 0.25s ease;
+}
+
+.social-icons img:hover {
+  transform: translateY(-4px) scale(1.1);
+  opacity: 0.8;
+}
+</style>
+
