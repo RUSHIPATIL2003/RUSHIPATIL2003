@@ -1,7 +1,7 @@
 <h3>Hii there👋🏼</h3>
 
 <p align="justify">
-I am <strong>Rushikesh Patil</strong>, an AI Engineer who enjoys turning ideas into intelligent systems that actually work in the real world. Coding has always been more than just a skill for me—it’s how I explore ideas, solve problems, and build things I’m genuinely curious about. I spend a lot of my time experimenting with AI, working on production-grade systems, and figuring out how to turn complex problems into simple, useful solutions. And yes, some of my best ideas tend to show up late at night, somewhere between a bug, a cup of coffee, and one more line of code.
+I am <strong>Rushikesh Patil</strong>, an AI/ML Engineer who enjoys turning ideas into intelligent systems that actually work in the real world. Coding has always been more than just a skill for me—it’s how I explore ideas, solve problems, and build things I’m genuinely curious about. I spend a lot of my time experimenting with AI, working on production-grade systems, and figuring out how to turn complex problems into simple, useful solutions. And yes, some of my best ideas tend to show up late at night, somewhere between a bug, a cup of coffee, and one more line of code.
 </p>
 
 <h3 align="center">🤝 Let's Connect with me</h3>
