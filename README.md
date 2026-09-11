@@ -15,7 +15,7 @@ I am <strong>Rushikesh Patil</strong>, an AI Engineer who enjoys turning ideas i
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/rushipatil2003" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/3291/3291695.png"
+    <img src="https://cdn-icons-png.flaticon.com/128/3291/3291667.png"
          alt="GitHub"
          width="40"
          height="40">
