@@ -10,21 +10,21 @@ I am <strong>Rushikesh Patil</strong>, an AI Engineer who enjoys turning ideas i
   <a href="https://www.linkedin.com/in/rushi03/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png"
          alt="LinkedIn"
-         width="40"
-         height="40">
+         width="32"
+         height="32">
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/rushipatil2003" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/128/3291/3291667.png"
          alt="GitHub"
-         width="40"
-         height="40">
+         width="32"
+         height="32">
   </a>
   &nbsp;&nbsp;
   <a href="https://x.com/rushiipatil25" target="_blank">
     <img src="https://freepngimg.com/thumb/x/95787-x-logo.png"
          alt="X.com"
-         width="40"
-         height="40">
+         width="32"
+         height="32">
   </a>
 </p>
